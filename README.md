@@ -1,5 +1,4 @@
-# 06_Tabs_App_React.js
-![image](https://user-images.githubusercontent.com/14126987/134805783-9b0d1e5d-b885-4031-9b75-66a8161d7e33.png)
+# 07_Slider_App_React.js
 
 # Available Scripts
 
